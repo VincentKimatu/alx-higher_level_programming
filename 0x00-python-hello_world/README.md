@@ -7,7 +7,7 @@ Prototypes for functions written in this project:
 | `10-check_cycle.c`         | `int check_cycle(listint_t *list);` |
 | `102-magic_calculation.py` | `def magic_calculation(a, b):`      |
 
-## Tasks :page_with_curl:
+## 0x00. Python - Hello, World Tasks
 
 - **0. Run Python File**
 
