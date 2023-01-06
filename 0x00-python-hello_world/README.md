@@ -51,7 +51,7 @@ School!` using the variables `str1 = "Holberton"` and `str2 = "School"`.
     on the string contained in the variable `word` as follows:
   - `word_first_3`: Contains the first three letters of the variable `word`.
   - `word_last_2`: Contains the last two letters of the variable `word`.
-  - `middle_word`: Contains the value of the variable `word` without the first and last lette
+  - `middle_word`: Contains the value of the variable `word` without the first and last letter
 
 - **8. Create a new sentence**
 

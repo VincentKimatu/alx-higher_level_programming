@@ -18,7 +18,7 @@ Prototypes for functions written in this project:
 | `101-remove_char_at.py`    | `def remove_char_at(str, n):`                           |
 | `102-magic_calculation.py` | `def magic_calculation(a, b, c):`                       |
 
-## Tasks 0x01-python-if_else_loops_functions
+## Tasks: 0x01-python-if_else_loops_functions
 
 - **0. Positive anything is better than negative nothing**
 
@@ -150,3 +150,5 @@ Prototypes for functions written in this project:
 
 - **16. ByteCode -> Python #2**
   - [102-magic_calculation.py](./102-magic_calculation.py): Python function matching ByteCode provided
+
+## **[Vincent Kimatu](https://github.com/VincentKimatu/)**
