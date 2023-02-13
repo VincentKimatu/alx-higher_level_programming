@@ -1,1 +1,0 @@
-Base, Rectangular and Square
